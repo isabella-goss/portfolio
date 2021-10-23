@@ -1,7 +1,7 @@
 # Isabella Forst
 
 Energetic, driven recent gradutate looking for copywriting contracts in the technology and engineering industries, with a focus on SEO-optimized copy. 
-In my three years of freelance and contract work, I've produced news stories, listicles, user guides, and other artifacts for the health and fitness, sports, and technology industries. 
+In my five years of professional writing experience, I've produced news stories, listicles, user guides, and other artifacts for the health and fitness, sports, and technology industries. 
 
 While my day job involves producing technical documentation, I haven't lost my spark for writing conversational, informal pieces!
 
