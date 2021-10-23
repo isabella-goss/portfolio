@@ -1,6 +1,6 @@
 # Isabella Forst
 
-[headshot image](isabella-grad.png)
+![headshot image](isabella-grad.png)
 
 Energetic, driven recent gradutate looking for copywriting contracts in the technology and engineering industries, with a focus on SEO-optimized copy. 
 In my five years of professional writing experience, I've produced news stories, listicles, user guides, and other artifacts for the health and fitness, sports, and technology industries. 
