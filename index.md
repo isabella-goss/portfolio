@@ -87,7 +87,7 @@ on provided documentation (testimonies, depositions, subpoenaed information, etc
 
 ### Greensboro News and Record
 **Freelance Correspondent** <br/>
-__Greensboro, NC, Summer 2018__
+___Greensboro, NC, Summer 2018___
 * Wrote a series of articles covering the local recreational swim league, published both in print and web form. (an example is linked [here](https://greensboro.com/sports/a-saturday-goes-swimmingly-for-lake-jeanette-sherwood/article_d3ffcf25-75ac-5354-98ff-0b840ed5eb32.html)!)
 
 ### Clever Creative Content
