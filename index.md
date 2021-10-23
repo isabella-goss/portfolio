@@ -6,16 +6,15 @@ In my three years of freelance and contract work, I've produced news stories, li
 While my day job involves producing technical documentation, I haven't lost my spark for writing conversational, informal pieces!
 
 ## Education
-**North Carolina State University (Raleigh, NC)**
-___B.S Technology, Engineering, and Design-- Graphic Communications Concentration
-Minors in 'Technical Writing and Scientific Communications' and 'Science Communication'__
+**North Carolina State University (Raleigh, NC)** <br/>
+__B.S Technology, Engineering, and Design- Graphic Communications Concentration, with minors in Technical Writing and Scientific Communications and Science Communication__
 * Graduated Summa Cum Laude, May 2021
 
 ## Work Experience
 My work experience, organized chronologically.
 
 ### Twilio-Segment
-**Technical Writer II**
+**Technical Writer II** <br/>
 ___Remote, October 2021- Present___
 * Distill information from various sources to produce concise, accurate, and timely documentation.
 * Identify areas of improvement within existing documentation processes and content.
@@ -24,7 +23,7 @@ ___Remote, October 2021- Present___
 * Ensure docs are delivered accurately and on time.
 
 ### FM:Systems
-**Technical Writer**
+**Technical Writer** <br/>
 ___Remote, February 2021-October 2021___
 * Created and maintained end-user documentation for four different product verticals
 * Tested and documentednew product functionality
@@ -34,7 +33,7 @@ other product owners for reviews, etc.)
 * Lead the department’s transition from MadCap Flare to a docs-as-code environment
 
 ### Office of Parents and Families Services
-**Parent Ally**
+**Parent Ally** <br/>
 ___Remote, August 2020-May 2021___
 * Developed parent-specific programing in collaboration with other on-campus
 departments.
@@ -44,14 +43,14 @@ parents.
 * Wrote [blogs](https://emas.ncsu.edu/pfs/blog/author/ijforst/) for a parent-focused audience.
 
 ### Google’s Season of Docs Program
-**Technical Writer -OpenSCAD**
+**Technical Writer -OpenSCAD** <br/>
 ___Remote, August 2020-Dec. 2020___
 * Drove teacher adoption of OpenSCAD by creating a lesson guide/series of scalable
 lessons that teach the basics of STEM concepts using OpenSCAD.
 * Rewrote existing teacher-focused documentation to make it more accessible.
 
 ### Red Hat
-**Technical Writing Intern**
+**Technical Writing Intern** <br/>
 ___Remote, May 2020-August 2020___
 * Tested and revised cloud-computing documentation.
 * Collaborated with engineering, support, and quality control teams to gather and refine
@@ -60,7 +59,7 @@ new requirements for accessible, customer-facing documentation.
 content and flexible customer content.
 
 ### Inter-Residence Council—Raleigh, NC 
-**President**
+**President** <br/>
 ___Raleigh, NC: May 2020-May 2021___
 * Represent NC State University at state-level, regional, and international conferences
 * Chair and preside over all general assembly and executive board meetings
@@ -71,7 +70,7 @@ council presidents
 
 
 ### L.A Weaver Company
-**Project Lead Intern, Technical Communications Intern**
+**Project Lead Intern, Technical Communications Intern** <br/>
 ___Raleigh, NC November 2019-Feb. 2021___
 * Working with a team of three other employees, ensuring they meet deadlines and put out
 work that meets company standards.
@@ -82,7 +81,7 @@ models.
 on provided documentation (testimonies, depositions, subpoenaed information, etc.)
 
 ### Clever Creative Content
-**Web Content Writer**
+**Web Content Writer** <br/>
 ___Remote November 2017-May 2019___
 * Wrote over 500 articles for now-defunct online blogs TeaStart.com and
 CreativeTimez.com
@@ -91,5 +90,5 @@ CreativeTimez.com
 search on the web
 
 ### Greensboro News and Record
-**Freelance Correspondent**
+**Freelance Correspondent** <br/>
 * Wrote a series of articles covering the local recreational swim league, published both in print and web form. (an example is linked [here](https://greensboro.com/sports/a-saturday-goes-swimmingly-for-lake-jeanette-sherwood/article_d3ffcf25-75ac-5354-98ff-0b840ed5eb32.html)!)
