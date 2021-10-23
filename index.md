@@ -5,6 +5,8 @@ In my five years of professional writing experience, I've produced news stories,
 
 While my day job involves producing technical documentation, I haven't lost my spark for writing conversational, informal pieces!
 
+For some of my blogs, work samples, and other fun stuff, click [here](hello-world.md)!
+
 ## Education
 **North Carolina State University (Raleigh, NC)** <br/>
 __B.S Technology, Engineering, and Design - Graphic Communications__
