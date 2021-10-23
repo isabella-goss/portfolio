@@ -41,7 +41,7 @@ departments.
 * Responded to parent queries over phone and email.
 * Represented NC State University on panels designed for current and prospective
 parents.
-* Wrote blogs for a parent-focused audience.
+* Wrote [blogs](https://emas.ncsu.edu/pfs/blog/author/ijforst/) for a parent-focused audience.
 
 ### Google’s Season of Docs Program
 **Technical Writer -OpenSCAD**
@@ -53,7 +53,6 @@ lessons that teach the basics of STEM concepts using OpenSCAD.
 ### Red Hat
 **Technical Writing Intern**
 ___Remote, May 2020-August 2020___
-
 * Tested and revised cloud-computing documentation.
 * Collaborated with engineering, support, and quality control teams to gather and refine
 new requirements for accessible, customer-facing documentation.
@@ -93,4 +92,4 @@ search on the web
 
 ### Greensboro News and Record
 **Freelance Correspondent**
-* Wrote a series of new
+* Wrote a series of articles covering the local recreational swim league, published both in print and web form. (an example is linked [here](https://greensboro.com/sports/a-saturday-goes-swimmingly-for-lake-jeanette-sherwood/article_d3ffcf25-75ac-5354-98ff-0b840ed5eb32.html)!)
