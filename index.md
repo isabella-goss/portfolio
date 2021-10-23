@@ -7,7 +7,8 @@ While my day job involves producing technical documentation, I haven't lost my s
 
 ## Education
 **North Carolina State University (Raleigh, NC)** <br/>
-__B.S Technology, Engineering, and Design- Graphic Communications Concentration, with minors in Technical Writing and Scientific Communications and Science Communication__
+__B.S Technology, Engineering, and Design - Graphic Communications__
+* Minors in Technical Writing and Scientific Communications and Science Communication
 * Graduated Summa Cum Laude, May 2021
 
 ## Work Experience
