@@ -80,15 +80,17 @@ models.
 * Increasing clarity on accident scenarios via writing and editing findings documents based
 on provided documentation (testimonies, depositions, subpoenaed information, etc.)
 
+### Greensboro News and Record
+**Freelance Correspondent** <br/>
+___Greensboro, NC, Summer 2018__
+* Wrote a series of articles covering the local recreational swim league, published both in print and web form. (an example is linked [here](https://greensboro.com/sports/a-saturday-goes-swimmingly-for-lake-jeanette-sherwood/article_d3ffcf25-75ac-5354-98ff-0b840ed5eb32.html)!)
+
 ### Clever Creative Content
 **Web Content Writer** <br/>
 ___Remote November 2017-May 2019___
-* Wrote over 500 articles for now-defunct online blogs TeaStart.com and
-CreativeTimez.com
+* Wrote over 500 articles for now-defunct online blogs TeaStart.com and CreativeTimez.com
 * Received 40-250 Facebook shares per article
 * Every article submitted passed Copyscape Premium, the most advanced plagiarism
 search on the web
 
-### Greensboro News and Record
-**Freelance Correspondent** <br/>
-* Wrote a series of articles covering the local recreational swim league, published both in print and web form. (an example is linked [here](https://greensboro.com/sports/a-saturday-goes-swimmingly-for-lake-jeanette-sherwood/article_d3ffcf25-75ac-5354-98ff-0b840ed5eb32.html)!)
+
