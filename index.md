@@ -1,9 +1,9 @@
-# Isabella Forst
+# Isabella Goss
 
 ![headshot image](isabella-grad.png)
 
-Energetic, driven recent gradutate looking for copywriting contracts in the technology and engineering industries, with a focus on SEO-optimized copy. 
-In my five years of professional writing experience, I've produced news stories, listicles, user guides, and other artifacts for the health and fitness, sports, and technology industries. 
+Energetic, driven recent gradutate looking for technical writing roles in the technology and engineering industries. 
+In my five years of professional writing experience, I've produced news stories, listicles, user guides, and documentation artifacts for the health and fitness, sports, and technology industries. 
 
 While my day job involves producing technical documentation, I haven't lost my spark for writing conversational, informal pieces!
 
