@@ -1,9 +1,12 @@
 # Isabella Goss
 
-![headshot image](/docs/images/isabella-grad.pngisabella-grad.png)
+![headshot image](/docs/images/isabella-grad.png)
 
-Energetic, driven recent gradutate looking for technical writing roles in the technology and engineering industries. 
-In my five years of professional writing experience, I've produced news stories, listicles, user guides, and documentation artifacts for the health and fitness, sports, and technology industries. 
+I am an early-career technical writer with two years of software documentation experience.
+
+I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. I'm the Swiss Army Knife of technical communicators: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can code documentation sites (from scratch)!
+
+In my free time, I enjoy baking, embroidery, and spending time with my son.
 
 While my day job involves producing technical documentation, I haven't lost my spark for writing conversational, informal pieces!
 
@@ -13,7 +16,7 @@ For some of my blogs, work samples, and other fun stuff, click [here](hello-worl
 **North Carolina State University (Raleigh, NC)** <br/>
 __B.S Technology, Engineering, and Design - Graphic Communications__
 * Minors in Technical Writing and Scientific Communications and Science Communication
-* Graduated Summa Cum Laude, May 2021
+* Graduated Summa Cum Laude (3.95 GPA), May 2021
 
 ## Work Experience
 My work experience, organized chronologically.
@@ -21,11 +24,9 @@ My work experience, organized chronologically.
 ### Twilio-Segment
 **Technical Writer II** <br/>
 ___Remote, October 2021- Present___
-* Distill information from various sources to produce concise, accurate, and timely documentation.
-* Identify areas of improvement within existing documentation processes and content.
-* Lead peer reviews of content, ensure the work you produce meets the right standard. Own documentation for one or more areas within the product.
-* Be an advocate for the Documentation team, use your skills to help other employees produce great documentation, and help our customers become successful users of the platform.
-* Ensure docs are delivered accurately and on time.
+* Distill information from various sources to produce concise, accurate, and timely documentation 
+* Identify areas of improvement within existing documentation processes and content
+* Leading reviews of peer- and contributor-submitted content
 
 ### FM:Systems
 **Technical Writer** <br/>
