@@ -1,8 +1,10 @@
-# Isabella Goss
+---
+title: Resume
+---
 
 ![headshot image](/docs/images/isabella-grad.png)
 
-I am an early-career technical writer with two years of software documentation experience.
+I am an early-career technical writer with two years of full-time software documentation experience and six years of professional writing experience.
 
 I graduated in 2021 from North Carolina State University with a major in Graphics Communications and two minors: one in Technical and Scientific Communications and another in Science Communication. I'm the Swiss Army Knife of technical communicators: I can write succinct technical documentation, create crisp, well-defined technical drawings, and can code documentation sites (from scratch)!
 
@@ -25,14 +27,14 @@ My work experience, organized chronologically.
 **Technical Writer II** <br/>
 ___Remote, October 2021- Present___
 * Distill information from various sources to produce concise, accurate, and timely documentation 
-* Identify areas of improvement within existing documentation processes and content
+* Identify areas of improvement within existing documentation processes, site, and content
 * Leading reviews of peer- and contributor-submitted content
 
 ### FM:Systems
 **Technical Writer** <br/>
 ___Remote, February 2021-October 2021___
 * Created and maintained end-user documentation for four different product verticals
-* Tested and documentednew product functionality
+* Tested and documented new product functionality
 * Collaborated with support teams to address consistent customer questions
 * Acted as product owner for documentation (leading agile ceremonies, reaching out to
 other product owners for reviews, etc.)
@@ -46,19 +48,19 @@ departments.
 * Responded to parent queries over phone and email.
 * Represented NC State University on panels designed for current and prospective
 parents.
-* Wrote [blogs](https://emas.ncsu.edu/pfs/blog/author/ijforst/) for a parent-focused audience.
+* Wrote [WordPress blogs](https://emas.ncsu.edu/pfs/blog/author/ijforst/) for a parent-focused audience.
 
 ### Google’s Season of Docs Program
 **Technical Writer -OpenSCAD** <br/>
 ___Remote, August 2020-Dec. 2020___
 * Drove teacher adoption of OpenSCAD by creating a lesson guide/series of scalable
 lessons that teach the basics of STEM concepts using OpenSCAD.
-* Rewrote existing teacher-focused documentation to make it more accessible.
+* Rewrote existing teacher-focused documentation to make it more accessible to new users.
 
 ### Red Hat
 **Technical Writing Intern** <br/>
 ___Remote, May 2020-August 2020___
-* Tested and revised cloud-computing documentation.
+* Tested and revised existing cloud-computing documentation.
 * Collaborated with engineering, support, and quality control teams to gather and refine
 new requirements for accessible, customer-facing documentation.
 * Participated in internal courses and presentations related to minimalism in customer
