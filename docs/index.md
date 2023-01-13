@@ -1,6 +1,6 @@
 # Isabella Goss
 
-![headshot image](isabella-grad.png)
+![headshot image](/docs/images/isabella-grad.pngisabella-grad.png)
 
 Energetic, driven recent gradutate looking for technical writing roles in the technology and engineering industries. 
 In my five years of professional writing experience, I've produced news stories, listicles, user guides, and documentation artifacts for the health and fitness, sports, and technology industries. 
