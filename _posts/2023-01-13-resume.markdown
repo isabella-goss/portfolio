@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-![headshot image](/docs/images/isabella-grad.png)
+![headshot image](_posts/images/isabella-grad.png)
 
 I am an early-career technical writer with two years of full-time software documentation experience and six years of professional writing experience.
 
