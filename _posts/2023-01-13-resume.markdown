@@ -1,8 +1,8 @@
 ---
 title: "Resume"
+layout: post
+date:   2023-01-13 18:17:14 -0500
 ---
-
-![headshot image](_posts/images/isabella-grad.png)
 
 I am an early-career technical writer with two years of full-time software documentation experience and six years of professional writing experience.
 
@@ -11,8 +11,6 @@ I graduated in 2021 from North Carolina State University with a major in Graphic
 In my free time, I enjoy baking, embroidery, and spending time with my son.
 
 While my day job involves producing technical documentation, I haven't lost my spark for writing conversational, informal pieces!
-
-For some of my blogs, work samples, and other fun stuff, click [here](hello-world.md)!
 
 ## Education
 **North Carolina State University (Raleigh, NC)** <br/>
